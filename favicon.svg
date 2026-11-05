@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="forgeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f97316" />
+      <stop offset="100%" stop-color="#b7410e" />
+    </linearGradient>
+  </defs>
+  <circle cx="50" cy="50" r="46" fill="#080b12" stroke="url(#forgeGrad)" stroke-width="6"/>
+  <path d="M50 18 L68 76 L52 76 L48 55 L36 76 L26 76 Z" fill="url(#forgeGrad)"/>
+  <circle cx="50" cy="64" r="5" fill="#f8fafc"/>
+</svg>

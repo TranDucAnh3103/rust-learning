@@ -1,0 +1,17 @@
+{
+  "name": "RustForge - Interactive Rust Learning Platform",
+  "short_name": "RustForge",
+  "description": "Production-quality interactive Rust learning, testing, and certification assessment platform.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#080b12",
+  "theme_color": "#080b12",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
